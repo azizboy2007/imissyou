@@ -1,7 +1,28 @@
-[
+
   {
-    "name": "Emote 1",
-    "image": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/images/emote1.png",
-    "script": "your_script_here"
+    {
+  "emotes": [
+    {
+      "name": "Emote 1",
+      "image": "https://example.com/emote1.png",
+      "script": "script_1"
+    },
+    {
+      "name": "Emote 2",
+      "image": "https://example.com/emote2.png",
+      "script": "script_2"
+    },
+    {
+      "name": "Emote 3",
+      "image": "https://example.com/emote3.png",
+      "script": "script_3"
+    },
+    {
+      "name": "Emote 4",
+      "image": "https://example.com/emote4.png",
+      "script": "script_4"
+    }
+  ]
+  
   }
-]
+
