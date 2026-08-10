@@ -1,1 +1,7 @@
-
+[
+  {
+    "name": "Emote 1",
+    "image": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/images/emote1.png",
+    "script": "your_script_here"
+  }
+]
